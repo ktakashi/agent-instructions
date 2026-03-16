@@ -6,7 +6,15 @@ This repository contains AI agent instructions, skills, et.al.
 Skills
 ------
 
-Currently provising the skills below:
+### location to put the `skills` directory
+
+- ~/.copilot/skills/
+- ~/.claude/skills/
+- ~/.agents/skills/
+
+One of the above location.
+
+### Skills
 
 - `notification`
   Send desktop notification.
