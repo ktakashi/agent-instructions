@@ -20,6 +20,12 @@ use the repository files without moving.
 For more details of VS Code, see 
 [Customize AI in Visual Studio Code](https://code.visualstudio.com/docs/copilot/customization/overview)
 
+Instructions
+------------
+
+- `general.instructions.md`
+  General instruction which is probably applied to most of the project
+
 Skills
 ------
 
